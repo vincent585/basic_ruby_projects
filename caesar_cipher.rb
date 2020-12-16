@@ -9,9 +9,4 @@ def caesar_cipher(string, shift_factor)
   end
 
   character_values.join
-
-
 end
-
-
-p caesar_cipher("What a string!", 5)
